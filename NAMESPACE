@@ -1,0 +1,5 @@
+import("ggplot2","fastDummies","survey","robCompositions","forcats","dplyr")
+importFrom("stats", "as.formula", "binomial", "lm", "quantile", "sd")
+export(CMMs)
+
+
